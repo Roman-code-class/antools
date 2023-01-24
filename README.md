@@ -2,4 +2,4 @@
 - На данный моммент без адаптива
 - Немного анимации
 - Сброщик gulp 
-- ссылка [Antools](https://roman-code-class.github.io/antools/)
+- посмотреть [Antools](https://roman-code-class.github.io/antools/)
